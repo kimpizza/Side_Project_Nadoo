@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 
-<br><br>
+<br><br> 
 
 ## 3. Project Management (22.12.19 ~)
 ### 프로젝트 개발 방식
